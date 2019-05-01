@@ -111,3 +111,6 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+# Travis <a href="https://travis-ci.org/BME-MIT-IET/Brogrammers-iet-2019" target="_blank"><img src="https://travis-ci.org/codinguser/gnucash-android.svg?branch=develop" alt="Travis build status" />
+</a>
